@@ -1,0 +1,3 @@
+# Part-time roles at TraderSwift
+
+TraderSwift is trading infrastructure built by one founder and a team of AI agents. The agents do the build. What they can't do is judge it from the outside, so we're looking for a few highly experienced people with about 4 hours a week. Of that, roughly 3 hours is reading, thinking and judging, and 1 hour is doing. There are three roles: the [Editor](editor.md), who sets the brief and makes the cut on anything we publish; the [Market reviewer](market-reviewer.md), who tests who pays and why; and the [Security reviewer](security-reviewer.md), who gives Signer's key handling a human read. If one fits you, reply to whoever sent you this or open an issue in this repo.
